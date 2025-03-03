@@ -1,1 +1,1 @@
-# Hip-tesis-generaci-n-y-validaci-n
+# Hipotesis-generar-y-validar
